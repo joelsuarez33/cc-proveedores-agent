@@ -1,0 +1,14 @@
+# --- carga de datos (load_to_supabase.py) ---
+pandas>=2.2,<4
+openpyxl>=3.1
+psycopg[binary]>=3.2,<4
+
+# --- agente (agent.py, langgraph_tools.py, llm.py) ---
+langgraph>=1.2,<2
+langchain-core>=1.6,<2
+langchain-anthropic>=1.6,<2
+httpx>=0.28
+python-dotenv>=1.0
+
+# --- opcional: solo si LLM_PROVIDER=deepseek ---
+# langchain-deepseek>=1.0
