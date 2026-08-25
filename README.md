@@ -173,7 +173,7 @@ partidas" es una instrucción de prompt en lugar de un edge del grafo.
 
 ## Stack
 
-Postgres (Supabase) · PostgREST · Python 3.12 · pandas · psycopg 3 · LangGraph ·
+Postgres (Supabase) · PostgREST · Python 3.13 · pandas · psycopg 3 · LangGraph ·
 LangChain · Anthropic API
 
 ## Puesta en marcha
